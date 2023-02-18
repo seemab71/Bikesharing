@@ -5,10 +5,15 @@ The objective of this work is to use the CitiBike dataset to examine utilization
 
 ### Results
 < Male/Female ratio of time distribution of ride times about equal
+
 < Unknown genders ride in the afternoons/evenings mostly
+
 < Majority are male riders followed by female riders
+
 < No one rides longer than an hour
+
 < Weekday riders ride in mornings/evenings
+
 < Weekend riders distributed throughout the day
 
 #### Summary
