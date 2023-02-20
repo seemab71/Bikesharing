@@ -23,3 +23,6 @@ The objective of this work is to use the CitiBike dataset to examine utilization
 #### Summary
 The date shows  most riders are male who ride under 30 minutes in weekdays either mornings or evenings. 
 Other analysis to consider: Consider times in summer or winter months and compare by gender
+
+Link to Tableau
+https://public.tableau.com/app/profile/agha.seemab.haider/viz/CitibikeNY_16768673802900/Story1?publish=yes
